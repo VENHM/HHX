@@ -3,7 +3,7 @@
 成员Contributors：黄鸿宇hcmiiu，胡杰Hj789，熊友旺2417753185<br>
 分支：HHX/hhy,HHX/hj,HHX/xyw<br>
 数据库：MongoDB<br>
-数据来源：老师给的文件issues_data,users_data<br>
+数据来源：老师给的文件issues_data,users_data,stopwords.txt<br>
 任务分布：<br>
 (每个人把自己写的上传到各种分支，进行对比以及提交更改)<br>
 //user数据清洗<br>
